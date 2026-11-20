@@ -1,0 +1,43 @@
+====================================
+ STUDENT RECORD AND RESULT SYSTEM
+====================================
+
+Student added successfully!
+
+Student added successfully!
+
+========== STUDENT RECORDS ==========
+
+Student 1
+SAP ID: 12345
+Roll Number: 10
+Name: Rahul Sharma
+Phone: 9876543210
+Email: rahul@gmail.com
+Year: 1
+Semester: 2
+CGPA: 8.75
+
+Student 2
+SAP ID: 12346
+Roll Number: 11
+Name: Priya Sharma
+Phone: 9876543211
+Email: priya@gmail.com
+Year: 2
+Semester: 2
+CGPA: 9.35
+
+Academic Advisor Report
+
+Student: Rahul Sharma
+CGPA: 8.75
+Category: Good
+Advice: Maintain consistency and aim higher.
+
+Student Found!
+SAP ID: 12345
+Name: Rahul Sharma
+CGPA: 8.75
+
+Thank you for using the system!
